@@ -1,4 +1,4 @@
-# NOX — Site do DJ
+# MAKASI — Site do DJ
 
 Site em HTML/CSS/JS puro, organizado como projeto Vite.
 
